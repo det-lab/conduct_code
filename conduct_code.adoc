@@ -1,0 +1,51 @@
+== Science Needs Everyone
+The mission of the det-lab is to move science forward for everyone.  Specifically,
+
+1. Understand how matter interacts with detectors, furthering fundamental science and the reach of energy research and security monitoring.
+2. Create software with standard interfaces, democritizing who can take data and who can analyze that data.
+3. Strive to create an inclusive space where everyone can contribute to this research.
+
+This code of conduct is intended to help new and continuing lab members build a space that allows them to work in comfort while being themselves.
+
+== Making Changes to the Code of Conduct
+This document is meant to be a living document.  If you'd like to see changes, clarify something, or discuss something, please feel free to contact me or bring this up as a topic during a group meeting.
+
+== Dress Code
+Dress codes can veer uncomfortably towards pressure to conform to an often-arbirtrary standard.  In the det-lab, we work with computers and the main hazard is repetetive stress injury.  Wear whatever clothing you are most comfortable in.
+  
+The only additional requirement is that clothing shouldn't go against the university's policy of creating a welcoming environment.  Here are some specific guidelines for the lab.
+
+Clothing indicating support for a group whose mission is fundamentally supportive::
+  Totally fine.
+
+Clothing indicating support for a hate group, as designated by e.g. the Southern Poverty Law Center:: 
+  Not okay.
+
+Clothing indicating negative feelings for a group of people::
+  Not okay.  An example of this is the "Blue Lives Matter" slogan.  Police lives absolutely matter, but this slogan is specifically a reaction to the "Black Lives Matter" movement and as such is not appropriate for the lab.
+
+Clothing indicating support for the Republican/Democrat/Green/Whatever party::  
+  Totally fine.  But please realize that I don't like to talk about politics - with anyone.  Except for supreme court opinions that involve mathematician testimony.
+
+
+== Confusion is Normal
+A critical part of success in research is being comfortable being confused and asking questions.  
+
+Because there's often pressure to know everything, it's far too easy to be mean to yourself and to others when working in this lab.
+
+I recommend reviewing the guidelines used by the Recurse Center to promote useful group interactions.
+
+https://www.recurse.com/social-rules
+
+If you're wondering whether you belong in the lab, I recommend talking to me, others in the lab, and looking into resources on impostor syndrome.  Feeling inadequate doesn't usually go away on its own, but there are good strategies out there for getting this brain bug to leave you alone.
+
+And you are always welcome to ask me how you're doing, what you're doing well, and what I think you should improve.
+
+
+== Jokes
+Jokes that reference groups of individuals (by race, gender, etc.) are almost never appropriate.  Just say no.
+
+
+== Mistakes
+We all make mistakes.  This code of conduct is probably pretty bad, for example!  If you've made a mistake, apologize, educate yourself so you're less likely to make the same mistake again, and help me improve the code of conduct :)
+
