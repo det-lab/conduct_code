@@ -1,0 +1,51 @@
+My expectations for students
+============================
+* do your best
+-- your best is awesome
+-- use the whole team to help you solve your problems
+
+* do your best to be honest with me
+-- I can handle the truth
+-- I like to work together to make reasonable work plans
+-- I like to make sure the work you're doing in my lab aligns with your goals
+
+* when you're unsure about literally anything, ask me
+-- am I doing this right?
+-- what am I supposed to be doing?
+-- why am I supposed to be doing this again?
+-- will I ever use this again?
+
+* when I ask you to do something, do it (if I ask someone to do something, it's because I think it's important)
+-- if you're not sure how to start, or get stuck, let me know 
+
+* keep some kind of notebook so I don't have to repeat website links a bunch
+
+* let me know when you're running late so I can plan.
+
+
+Things to be aware of
+=====================
+* A welcoming lab environment where we all feel free to ask questions is super important to me.
+
+* Our lab follows good data practices
+-- are you telling me about a file that exists on only one computer?  I will look irritated.
+-- I expect everyone to version control their work and regularly push to a group-accessible github repository
+-- I expect everyone to let me know *right away* if they encounter errors or questions with versioning their work and pushing to the remote
+-- We'll solve it together!
+-- It's important!
+
+* Our knowledge belongs to everyone
+-- is there a way you can improve something so that other people can benefit from your work?  Then we should do it, with high priority.
+-- everything we do will be licensed with the least-restrictive licesne possible (MIT).
+
+* Life is short, there's no sense in torturing yourself
+-- if you're hating or even lukewarm on your work, let's talk.  Your happiness matters.
+
+Expectations for myself
+======================= 
+* I'll help you find solutions
+* I'll respond to your emails within 24 hours
+* I'll do my best to find projects for you that are a good fit
+* I'll help you identify a near-term, concrete goal
+* I will always be happy to answer your questions
+* I will tell you if you are not meeting my expectations in some way, and be available if you'd like help figuring out how to improve
