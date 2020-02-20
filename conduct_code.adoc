@@ -10,8 +10,13 @@ This code of conduct is intended to help new and continuing lab members build a 
 == Making Changes to the Code of Conduct
 This document is meant to be a living document.  If you'd like to see changes, clarify something, or discuss something, please feel free to contact me or bring this up as a topic during a group meeting.
 
+== Mistakes
+We all make mistakes.  If you've made a mistake, apologize and educate yourself so you're less likely to make the same mistake again.  
+
+Firing is reserved for individuals who show clear disregard for contributing to a positive work environment or who have a pattern of making an uncomfortable work environment.
+
 == Dress Code
-Dress codes can veer uncomfortably towards pressure to conform to an often-arbirtrary standard.  In the det-lab, we work with computers and the main hazard is repetetive stress injury.  Wear whatever clothing you are most comfortable in.
+In the det-lab, we work with computers and the main hazard is repetetive stress injury.  Wear whatever clothing you are most comfortable in.
   
 The only additional requirement is that clothing shouldn't go against the university's policy of creating a welcoming environment.  Here are some specific guidelines for the lab.
 
@@ -56,7 +61,4 @@ Would you be comfortable saying that to Dwayne "The Rock" Johnson?  If so, you'r
 
 (Insert your intimidating, no-nonesense hero of choice.)
 
-
-== Mistakes
-We all make mistakes.  This code of conduct is probably pretty bad, for example!  If you've made a mistake, apologize, educate yourself so you're less likely to make the same mistake again, and help me improve the code of conduct :)
 
